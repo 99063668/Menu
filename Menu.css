@@ -4,33 +4,33 @@ img  {
    }
 
 h1{
-  font-family: "roboto";
+  font-family: 'Roboto', sans-serif;
   font-size: 36px;
 }
 
 h2{
-  font-family: "roboto";
+  font-family: 'Roboto', sans-serif;
   font-size: 24px;
 }
 
 span{
-  font-family: "roboto";
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   padding: 10px;
 }
 
 p{
-  font-family: "roboto";
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
 }
 
 ul{
-  font-family: "roboto";
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
 }
 
 ol{
-  font-family: "roboto";
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
 }
 
