@@ -38,3 +38,13 @@ div.container{
   width: 1000px;
   margin: 0 auto;
 }
+
+li{
+  margin: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+li.bereiding{
+  margin: 20px;
+  font-family: 'Roboto', sans-serif;
+}
