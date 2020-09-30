@@ -1,50 +1,86 @@
 img  {
-    width: 600px;
-    height: 450px;
-   }
-
-h1{
-  font-family: 'Roboto', sans-serif;
-  font-size: 36px;
+ width: 700px;
+ height: 450px;
+}
+img.Soep {
+    width: 765px;
+    height: 405px;
 }
 
-h2{
+
+body{
   font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+
+h1{
+  font-size: 36px;
+}
+h2{
   font-size: 24px;
 }
 
+
 span{
-  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   padding: 10px;
 }
 
-p{
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px;
-}
-
-ul{
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px;
-}
-
-ol{
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px;
-}
 
 div.container{
   width: 1000px;
   margin: 0 auto;
 }
 
+
 li{
   margin: 10px;
-  font-family: 'Roboto', sans-serif;
 }
-
 li.bereiding{
   margin: 20px;
-  font-family: 'Roboto', sans-serif;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: rgb(23, 24, 23);
+  color: white;
+}
+.topnav a.active {
+  background-color: rgb(10, 80, 10);
+  color: white;
+}
+
+
+.vertical-menu {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+}
+.vertical-menu a {
+  background-color: black;
+  color: white;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+.vertical-menu a:hover {
+  background-color: rgb(23, 24, 23);
+}
+.vertical-menu a.active {
+  background-color: rgb(10, 80, 10);
+  color: white;
 }
