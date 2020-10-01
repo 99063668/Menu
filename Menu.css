@@ -11,14 +11,17 @@ img.Soep {
 body{
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
+  line-height: 26px;
 }
 
 
 h1{
   font-size: 36px;
+  line-height: 36px;
 }
 h2{
   font-size: 24px;
+  line-height: 32px;
 }
 
 
@@ -83,4 +86,8 @@ li.bereiding{
 .vertical-menu a.active {
   background-color: rgb(10, 80, 10);
   color: white;
+}
+
+.tip{
+  font-weight: bold;
 }
